@@ -30,11 +30,10 @@ const About = () => {
 					style={{ color: `${newTheme.para}` }}
 					className={styles.aboutMe}
 				>
-					Hello! My name is Preeti Sharma and I enjoy creating things that
+					Hello! My name is Preeti Sharma and I enjoy creating things that are 
 					live on the internet.
-					<br /> Fast Forwarding to today, I built a number of web
-					applications and 3 major projects. Learned a great deal
-					about teamwork, leadership, and communication. After months
+					<br /> Here I'm with some web application and three major project.
+					While working on collaborative projects I also  learned about teamwork, time management ,  leadership and communication. After months
 					of rigorous training, here I am
 					<span style={{ color: `#1455CF ` }}>
 						{' '}
