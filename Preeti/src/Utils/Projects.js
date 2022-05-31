@@ -12,7 +12,7 @@ export const projects = [
 		img: 'https://i.ibb.co/y0k5Ghy/Screenshot-380.png',
 		title: 'Zappose Clone',
 		des: 'An e-commerce website for mens and womens product. ',
-		live: 'https://dynamic-strudel-3a04dd.netlify.app/',
+		live: 'https://zappos-delta.vercel.app/',
 		gitHub: 'https://github.com/PreetS123/Zappos',
 		technologies: ['JavaScript,',"HTML," ,'CSS'],
 	},
