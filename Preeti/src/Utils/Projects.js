@@ -20,7 +20,7 @@ export const projects = [
 		img: 'https://i.ibb.co/QF9WSXp/Screenshot-376.png',
 		title: 'iHerb Clone',
 		des: 'An e-commerce website for natural beauty products for all skin type.',
-		live: 'i-herb-clone-as36tf38o-preets123.vercel.app',
+		live: 'https://i-herb-clone.vercel.app/',
 		gitHub: 'https://github.com/PreetS123/iHerb-Clone',
 		technologies: [ 'HTML,', 'CSS,', 'JavaScript'],
 	},
