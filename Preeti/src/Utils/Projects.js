@@ -20,8 +20,8 @@ export const projects = [
 		img: 'https://i.ibb.co/QF9WSXp/Screenshot-376.png',
 		title: 'iHerb Clone',
 		des: 'An e-commerce website for natural beauty products for all skin type.',
-		live: 'https://subtle-travesseiro-24e206.netlify.app/',
-		gitHub: 'https://i-herb-clone.vercel.app/',
+		live: 'i-herb-clone-as36tf38o-preets123.vercel.app',
+		gitHub: 'https://github.com/PreetS123/iHerb-Clone',
 		technologies: [ 'HTML,', 'CSS,', 'JavaScript'],
 	},
 	
