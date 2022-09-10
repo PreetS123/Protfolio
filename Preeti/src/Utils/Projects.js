@@ -1,13 +1,12 @@
 export const projects = [
-	// {
-	// 	img: '',
-	// 	title: '',
-	// 	des: '',
-	// 	demo: '',
-	// 	live: '',
-	// 	gitHub: '',
-	// 	technologies:[],
-	// },
+	{
+		img: 'https://i.ibb.co/cc86DWt/Screenshot-460.png',
+		title: 'aberrant-coast-299',
+		des: 'Cronometer is basically a nutrition and calories tracking device where we can track our daily diet.',
+		live: 'https://coronometer6198.netlify.app/',
+		gitHub: 'https://github.com/PreetS123/aberrant-coast-299',
+		technologies:['MongoDB','Express.js','React.js','Redux','Chakra_UI'],
+	},
 	{
 		img: 'https://i.ibb.co/y0k5Ghy/Screenshot-380.png',
 		title: 'Zappose Clone',
