@@ -8,7 +8,7 @@ const About = () => {
 	const [width] = WindowSize();
 	const img =
 		width < 650
-			? 'https://i.ibb.co/C8G6k0H/img1.jpg' // my Picture
+			? 'https://i.ibb.co/xJ9GBJ6/Profilepic.jpg' // my Picture
 			: 'https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif';
 	return (
 		<div
@@ -16,7 +16,10 @@ const About = () => {
 			style={{ boxShadow: `3px 3px 5px ${newTheme.line}` }}
 		>
 			<div className={styles.first}>
-				<img src={"https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"} alt='' />
+				<img
+				//  src={"https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"} 
+				src={img}
+				 alt='' />
 			</div>
 			<div className={styles.second}>
 				<h1

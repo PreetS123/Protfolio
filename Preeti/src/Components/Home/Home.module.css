@@ -137,6 +137,7 @@ body::after {
 	}
 	.profileImage {
 		margin-left: 30px;
+		/* margin-bottom: 70px; */
 	}
 }
 @media screen and (max-width: 900px) {
@@ -146,6 +147,7 @@ body::after {
 	}
 	.profileImage img {
 		width: 300px;
+	
 	}
 }
 @media screen and (max-width: 830px) {
@@ -190,11 +192,12 @@ body::after {
 
 	.profileImage {
 		position: fixed;
-		width: 50vw;
-		height: 50vw;
+		width: 45vw;
+		height: 45vw;
 		top: 80px;
 		right: 50%;
 		transform: translateX(50%) !important;
+		margin-bottom: 20px;
 	}
 	.profileImage img {
 		width: 50vw;
