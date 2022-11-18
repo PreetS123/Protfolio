@@ -1,11 +1,11 @@
 export const projects = [
 	{
-		img: 'https://i.ibb.co/cc86DWt/Screenshot-460.png',
-		title: 'aberrant-coast-299',
-		des: 'Cronometer is basically a nutrition and calories tracking device where we can track our daily diet.',
-		live: 'https://coronometer6198.netlify.app/',
-		gitHub: 'https://github.com/PreetS123/aberrant-coast-299',
-		technologies:['MongoDB','Express.js','React.js','Redux','Chakra_UI'],
+		img: 'https://ibb.co/9hh1wwk',
+		title: 'cooperative-bridge-6636',
+		des: 'Freshly provides meal delivery services across the U.S with flexible and cheap plans.',
+		live: 'https://freshly-clone-flame.vercel.app/',
+		gitHub: 'https://github.com/PreetS123/cooperative-bridge-6636',
+		technologies:['React.js','Redux','Chakra_UI'],
 	},
 	{
 		img: 'https://i.ibb.co/y0k5Ghy/Screenshot-380.png',
