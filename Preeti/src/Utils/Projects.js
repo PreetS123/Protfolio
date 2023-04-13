@@ -1,6 +1,6 @@
 export const projects = [
 	{
-		img: 'https://ibb.co/2vD45Mx',
+		img: 'https://i.ibb.co/Xx7KqjQ/Screenshot-51.png',
 		title: 'cooperative-bridge-6636',
 		des: 'Freshly provides meal delivery services across the U.S with flexible and cheap plans.',
 		live: 'https://freshly-clone-flame.vercel.app/',
