@@ -1,18 +1,18 @@
 import React, { useContext } from 'react';
 import { ThemeContext } from '../../ContextProvider/ThemeContext';
-// import styles from './Experiences.module.css';
+import styles from './Experiences.module.css';
 
 const Experiences = () => {
 	const { newTheme } = useContext(ThemeContext);
 	return (
 		<div className="ab">
-			{/* <h1
+			 <h1
 				style={{ color: `${newTheme.title}` }}
 				className={styles.heading}
 			>
 				Experience
-			</h1> */}
-			{/* <div className={styles.borderBottom} />
+			</h1> 
+			 <div className={styles.borderBottom} />
 
 			<div className={styles.container}>
 				<div className={styles.position}>
@@ -41,11 +41,11 @@ const Experiences = () => {
 					
 					</ul>
 				</fieldset>
-			</div> */}
+			</div> 
 
 			<br/>
 
-			{/* <div className={styles.container}>
+			 <div className={styles.container}>
 				<div className={styles.position}>
 				JR MECHANICAL | Mechanical Engineering{' '}
 					<a href='/'>DS GROUP (DAIRY DIVISION) REENGUS </a>
@@ -71,7 +71,7 @@ const Experiences = () => {
 					
 					</ul>
 				</fieldset>
-			</div> */}
+			</div> 
 
 		</div>
 	);

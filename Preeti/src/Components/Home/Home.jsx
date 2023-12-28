@@ -79,12 +79,11 @@ const Home = ({ scrollRef }) => {
 						</div>
 					</h1>
 					<h1>
-					I am a goal-oriented, productive and aspiring MERN Developer. Excited to become an integral part of an organization. 
-                    
+					I am a front-end developer with a strong interest in projects requiring conceptual and analytical thinking.
 					</h1>
 					<div className={styles.btn}>
 						<a
-							href='https://drive.google.com/drive/folders/1quVzPeNJ0aU5Ja0aGl0b2ISu94JDSBy5?usp=sharing' // Resume
+							href='https://drive.google.com/file/d/1GUeCbRncZkQosOL7lclTCCogqHTM1ADG/view?usp=sharing' // Resume
 							target='blank'
 						>
 							<Button
