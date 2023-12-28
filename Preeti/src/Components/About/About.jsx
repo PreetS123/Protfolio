@@ -33,14 +33,12 @@ const About = () => {
 					style={{ color: `${newTheme.para}` }}
 					className={styles.aboutMe}
 				>
-					Hi, I'm Preeti Sharma, a MERN developer with 6 months of experience building web applications using MongoDB, Express, React, and Node.js. 
+					{/*Hi, I'm Preeti Sharma, a MERN developer with 6 months of experience building web applications using MongoDB, Express, React, and Node.js. 
 					<br/>
-					As a MERN developer, I have a strong background in creating dynamic and responsive web applications using the MERN stack. I also have experience in working with Git, Redux, Matarial-UI, and Chakra UI.
-					{/* Hello! My name is Preeti Sharma and I enjoy creating things that are 
-					live on the internet.
-					<br /> Here I'm with some web application and three major project.
-					While working on collaborative projects I also  learned about teamwork, time management ,  leadership and communication. After months
-					of rigorous training, here I am*/}
+	As a MERN developer, I have a strong background in creating dynamic and responsive web applications using the MERN stack. I also have experience in working with Git, Redux, Matarial-UI, and Chakra UI.*/}
+					Hello,I am a front-end developer with a strong interest in projects requiring conceptual and analytical thinking. Looking
+forward to working in a team or collaboration, where I can efficiently contribute my skills and abilities to the
+growth of the organization and build my professional career.
 					<span style={{ color: `#1455CF ` }}>
 						{' '}
 						Looking for an opportunity at full stack web developer role

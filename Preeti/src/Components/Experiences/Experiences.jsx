@@ -16,29 +16,25 @@ const Experiences = () => {
 
 			<div className={styles.container}>
 				<div className={styles.position}>
-				Utility Engineer  | Mechanical Engineering{' '}
-					<a href=''>  Govindjee Dairy Pvt. Ltd, Jaipur</a>
+				Frontend Developer  | Web Developer{' '}
+					<a href='#'>Loom Tree Fashion Private Limited  </a>
 				</div>
-				<div className={styles.date}>January 2020 - October 2020</div>
+				<div className={styles.date}>April 2020 - Present</div>
 				<fieldset className={styles.responsibilites}>
 					<legend>
 						<h3> Roles & responsibilites </h3>
 					</legend>
 					<ul>
 						<li>
-							My role was to  Monitoring of boiler operation & Performing regular maintenance of boiler. 
+							My role is to perform all the frontend task of present website.
                            </li>
 						<li>
-						Monitoring Ammonia Refrigeration system as well as cold chain unit. 
+						 Designing new features and resolving bugs in e-commerece website. 
 						</li>
 						<li>
-						Responding to breakdown ,malfunctions and analysis
+						    Responsible for the development of e-commerce admin panel.
 							</li>
-							<li>
-							Etp operation and monitoring 
-
-							</li>
-					
+							
 					</ul>
 				</fieldset>
 			</div> 
@@ -47,27 +43,22 @@ const Experiences = () => {
 
 			 <div className={styles.container}>
 				<div className={styles.position}>
-				JR MECHANICAL | Mechanical Engineering{' '}
-					<a href='/'>DS GROUP (DAIRY DIVISION) REENGUS </a>
+				Frontend Developer || Web Developer{' '}
+					<a href='#'>Thinzy Tech</a>
 				</div>
-				<div className={styles.date}>August 2018 - December 2019</div>
+				<div className={styles.date}>May 2022 - April 2023</div>
 				<fieldset className={styles.responsibilites}>
 					<legend>
 						<h3> Roles & responsibilites </h3>
 					</legend>
 					<ul>
 						<li>
-						Monitoring of utility operations 
-
-							
-						</li>
-						<li>Carrying out of Predictive, Preventive maintenance & Breakdown maintenance, planning & execution. 
-							
+						End to end bug testing of websites.
 						</li>
 						<li>
-						Work as team member of the shift maintenance group & involve in the problem solving activities in plant.
-
+						 Developing and desiging websites.
 						</li>
+						
 					
 					</ul>
 				</fieldset>

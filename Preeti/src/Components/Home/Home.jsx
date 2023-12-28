@@ -120,8 +120,7 @@ const Home = ({ scrollRef }) => {
 				style={{
 					background: `${newTheme.highlightBackground}`,
 				}}
-				className={styles.
-					ience}
+				className={styles.ience}
 			>
 				<About />
 			</div>
