@@ -17,19 +17,19 @@ const Experiences = () => {
 			<div className={styles.container}>
 				<div className={styles.position}>
 				Frontend Developer  | Web Developer{' '}
-					<a href='#'>Loom Tree Fashion Private Limited  </a>
+					<a href='https://dropshipper.shopperr.in/search/hotproducts#' target="blank">Loomtree Fashion Private Limited  </a>
 				</div>
-				<div className={styles.date}>April 2020 - Present</div>
+				<div className={styles.date}>April 2023 - Present</div>
 				<fieldset className={styles.responsibilites}>
 					<legend>
-						<h3> Roles & responsibilites </h3>
+						<h3> Roles & responsibilities </h3>
 					</legend>
 					<ul>
 						<li>
 							My role is to perform all the frontend task of present website.
                            </li>
 						<li>
-						 Designing new features and resolving bugs in e-commerece website. 
+						 Designing new features and resolving bugs in e-commerce website. 
 						</li>
 						<li>
 						    Responsible for the development of e-commerce admin panel.
@@ -44,19 +44,19 @@ const Experiences = () => {
 			 <div className={styles.container}>
 				<div className={styles.position}>
 				Frontend Developer || Web Developer{' '}
-					<a href='#'>Thinzy Tech</a>
+					<a href='https://www.linkedin.com/company/thinkzy-tech/' target="blank">Thinkzy Tech</a>
 				</div>
 				<div className={styles.date}>May 2022 - April 2023</div>
 				<fieldset className={styles.responsibilites}>
 					<legend>
-						<h3> Roles & responsibilites </h3>
+						<h3> Roles & responsibilities </h3>
 					</legend>
 					<ul>
 						<li>
 						End to end bug testing of websites.
 						</li>
 						<li>
-						 Developing and desiging websites.
+						 Developing and design new features in web applications.
 						</li>
 						
 					
