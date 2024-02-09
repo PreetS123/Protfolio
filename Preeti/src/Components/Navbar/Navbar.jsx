@@ -54,14 +54,16 @@ const Navbar = () => {
 			}}
 		> 
 			<div className={styles.navbar}> 
-				<a target='blank'> 
+			<div>
+				{/*<a href="#" target='blank'> 
 					<div className={styles.logo}>
 						<img
 							src=""
 							alt=''
 						/>
 					</div>
-				</a>
+		</a>*/}
+		</div>
 
 				<div
 					style={{ color: `${newTheme.title}` }}
