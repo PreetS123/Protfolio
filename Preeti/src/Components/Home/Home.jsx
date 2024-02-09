@@ -11,7 +11,7 @@ import About from '../About/About';
 import { projects } from '../../Utils/Projects';
 import Contact from '../Contact/Contact';
 import { ThemeContext } from '../../ContextProvider/ThemeContext';
-import Experiences from '../Experiences/Experiences';
+// import Experiences from '../Experiences/Experiences';
 
 const Home = ({ scrollRef }) => {
 	const [projectArray, setProjectArray] = useState(
@@ -129,7 +129,7 @@ const Home = ({ scrollRef }) => {
 				<TechStacks />
 			</div>
 
-			<div
+			{/*<div
 				id='experience'
 				className={styles.experience}
 				style={{
@@ -145,7 +145,7 @@ const Home = ({ scrollRef }) => {
 				>
 					<Experiences />
 				</div>
-			</div>
+			</div>*/}
 
 			{/* project section from here => */}
 			<div id='projects' className={styles.projects}>
