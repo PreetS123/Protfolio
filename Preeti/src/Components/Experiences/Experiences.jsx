@@ -10,10 +10,42 @@ const Experiences = () => {
         Experience
       </h1>
       <div className={styles.borderBottom} />
+      <div className={styles.container}>
+        <div className={styles.position}>
+          Mern Stack Developer | FullStack Developer{" "}
+          <a
+            href="https://axonichealth.com/"
+            target="blank"
+          >
+            Axonic health pvt. ltd.{" "}
+          </a>
+        </div>
+        <div className={styles.date}>Feb 2023 - Current</div>
+        <fieldset className={styles.responsibilites}>
+          <legend>
+            <h3> Roles & responsibilities </h3>
+          </legend>
+          <ul>
+            <li>
+            As a Frontend Developer, my responsibilities include using ReactJS, HTML5, DOM manipulation, CSS3,
+            and React-Native frameworks to build strong and scalable web and tab applications.
+            </li>
+            <li>
+            I actively ensured seamless integration between client and server components, facilitating efficient
+            management of hospital resources and patient data.
+            </li>
+            <li>
+            Also contributing to the API development of the BI dashboard and its integration.
+            </li>
+          </ul>
+        </fieldset>
+      </div>
+
+      <br/>
 
       <div className={styles.container}>
         <div className={styles.position}>
-          Frontend Developer | Web Developer{" "}
+          React.js Developer | Frontend Developer{" "}
           <a
             href="https://dropshipper.shopperr.in/search/hotproducts#"
             target="blank"
@@ -48,7 +80,7 @@ const Experiences = () => {
 
       <div className={styles.container}>
         <div className={styles.position}>
-          Frontend Developer || Web Developer{" "}
+          UI Developer || Frontend Developer{" "}
           <a
             href="https://www.linkedin.com/company/thinkzy-tech/"
             target="blank"
@@ -56,7 +88,7 @@ const Experiences = () => {
             Thinkzy Tech
           </a>
         </div>
-        <div className={styles.date}>Dec 2021 - April 2023</div>
+        <div className={styles.date}>Dec 2020 - April 2023</div>
         <fieldset className={styles.responsibilites}>
           <legend>
             <h3> Roles & responsibilities </h3>
